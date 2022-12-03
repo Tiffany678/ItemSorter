@@ -12,7 +12,7 @@ public class NullaryConstructorTest {
     public void testNullaryConstructor() {
         // given
         String expectedName = "";
-        Long expectedId = 0L;
+        Long expectedId = null;
         Double expectedPrice = 0.01;
 
         // when
